@@ -23,5 +23,6 @@ This repo contains an opinionated list of blog posts, conference talks and other
 
 # The ecosystem
 
-- [Ahead Of Time and Native in Spring Boot 3.0 by Stéphane Nicoll & Brian Clozel](https://www.youtube.com/watch?v=TS4DpYSmfXk) (Stéphane Nicoll. Brian Clozel, Devoxx Belgium 2022)
+- [Build Native Java Apps with Micronaut, Quarkus, and Spring Boot](https://www.youtube.com/watch?v=sTebxMbPTCQ) (Matt Raible)
+- [Ahead Of Time and Native in Spring Boot 3.0 by Stéphane Nicoll & Brian Clozel](https://www.youtube.com/watch?v=TS4DpYSmfXk) (Stéphane Nicoll, Brian Clozel, Devoxx Belgium 2022)
 - [GraalVM Cloud Native & Micronaut Deep Dive](https://www.youtube.com/watch?v=3t-gwFuOtnM) (Graeme Rocher, Devoxx Belgium 2022) 
