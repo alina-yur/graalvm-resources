@@ -8,7 +8,6 @@ This repo contains an opinionated list of blog posts, conference talks and other
 
 # GraalVM Native Image
 
-
 - [Supercharge your Native Image applications in 5 steps!](https://www.youtube.com/watch?v=gPA-yE6q_PQ) (Alina Yurenko, Devoxx Belgium 2022)
 - [Taming Build-Time Initialization in Native Image](https://github.com/graalvm/taming-build-time-initialization) (Vojin Jovanovic)
 - [Initialize Once, Start Fast: Application Initialization at Build Time](http://www.christianwimmer.at/Publications/Wimmer19a/Wimmer19a.pdf) (Christian Wimmer et al.) 
@@ -20,6 +19,15 @@ This repo contains an opinionated list of blog posts, conference talks and other
 # Truffle and GraalVM languages
 
 - [Dynamic Metacompilation with Truffle with Christian Humer](https://www.youtube.com/watch?v=pksRrON5XfU)
+
+# GraalVM in the wild
+
+- [Twitter’s Quest for a Wholly Graal Runtime](https://www.youtube.com/watch?v=G-vlQaPMAx)
+- [GraalVM in practice at the Dutch National Police: running R from Scala in Spring Boot 2](https://vimeo.com/360837119)
+- [Static Compilation of Java Applications at Alibaba at Scale](https://medium.com/graalvm/static-compilation-of-java-applications-at-alibaba-at-scale-2944163c92e)
+- [Running C/C++ application safely in the Java world with GraalVM at Adyen](https://www.adyen.com/blog/graalvm-running-c-applications--in-the-cloud)
+- [Providing JavaScript runtime for Oracle Netsuite](https://www.netsuite.com/portal/resource/articles/erp/graal-runtime-technology-improves-netsuite-platform-developer-productivity.shtml)
+
 
 # The ecosystem
 
