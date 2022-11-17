@@ -22,11 +22,13 @@ This repo contains an opinionated list of blog posts, conference talks and other
 
 # GraalVM in the wild
 
-- [Twitter’s Quest for a Wholly Graal Runtime](https://www.youtube.com/watch?v=G-vlQaPMAx)
-- [GraalVM in practice at the Dutch National Police: running R from Scala in Spring Boot 2](https://vimeo.com/360837119)
-- [Static Compilation of Java Applications at Alibaba at Scale](https://medium.com/graalvm/static-compilation-of-java-applications-at-alibaba-at-scale-2944163c92e)
-- [Running C/C++ application safely in the Java world with GraalVM at Adyen](https://www.adyen.com/blog/graalvm-running-c-applications--in-the-cloud)
-- [Providing JavaScript runtime for Oracle Netsuite](https://www.netsuite.com/portal/resource/articles/erp/graal-runtime-technology-improves-netsuite-platform-developer-productivity.shtml)
+- [Twitter] [Accelerating Scala with the GraalVM JIT Compiler](https://www.youtube.com/watch?v=G-vlQaPMAx)
+- [Dutch National Police] [GraalVM in practice at the Dutch National Police: running R from Scala in Spring Boot 2](https://vimeo.com/360837119)
+- [Alibaba] [Static Compilation of Java Applications at Alibaba at Scale](https://medium.com/graalvm/static-compilation-of-java-applications-at-alibaba-at-scale-2944163c92e)
+- [Netsuite] [Providing JavaScript runtime for Oracle Netsuite](https://www.netsuite.com/portal/resource/articles/erp/graal-runtime-technology-improves-netsuite-platform-developer-productivity.shtml)
+- [Facebook] [GraalVM at Facebook](https://medium.com/graalvm/graalvm-at-facebook-af09338ac519)
+- [Disney Streaming] [Improving Java Lambda Performance with GraalVM Native Image and Micronaut](https://aws.amazon.com/blogs/opensource/improving-developer-productivity-at-disney-with-serverless-and-open-source/)
+- [Adyen] [Running C/C++ application safely in the Java world with GraalVM at Adyen](https://www.adyen.com/blog/graalvm-running-c-applications--in-the-cloud)
 
 
 # The ecosystem
