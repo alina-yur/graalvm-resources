@@ -20,6 +20,12 @@ This repo contains an opinionated list of blog posts, conference talks and other
 
 - [Dynamic Metacompilation with Truffle with Christian Humer](https://www.youtube.com/watch?v=pksRrON5XfU)
 
+# The ecosystem
+
+- [Build Native Java Apps with Micronaut, Quarkus, and Spring Boot](https://www.youtube.com/watch?v=sTebxMbPTCQ) (Matt Raible)
+- [Ahead Of Time and Native in Spring Boot 3.0 by Stéphane Nicoll & Brian Clozel](https://www.youtube.com/watch?v=TS4DpYSmfXk) (Stéphane Nicoll, Brian Clozel, Devoxx Belgium 2022)
+- [GraalVM Cloud Native & Micronaut Deep Dive](https://www.youtube.com/watch?v=3t-gwFuOtnM) (Graeme Rocher, Devoxx Belgium 2022)
+
 # GraalVM in the wild
 
 - [Twitter] [Accelerating Scala with the GraalVM JIT Compiler](https://www.youtube.com/watch?v=G-vlQaPMAx)
@@ -30,9 +36,6 @@ This repo contains an opinionated list of blog posts, conference talks and other
 - [Disney Streaming] [Improving Java Lambda Performance with GraalVM Native Image and Micronaut](https://aws.amazon.com/blogs/opensource/improving-developer-productivity-at-disney-with-serverless-and-open-source/)
 - [Adyen] [Running C/C++ application safely in the Java world with GraalVM at Adyen](https://www.adyen.com/blog/graalvm-running-c-applications--in-the-cloud)
 
+# Crazy projects with GraalVM 🤪😄
+- [Embedding Doom in Java with GraalVM WASM](https://github.com/stepstone-tech/doom-graalvm)
 
-# The ecosystem
-
-- [Build Native Java Apps with Micronaut, Quarkus, and Spring Boot](https://www.youtube.com/watch?v=sTebxMbPTCQ) (Matt Raible)
-- [Ahead Of Time and Native in Spring Boot 3.0 by Stéphane Nicoll & Brian Clozel](https://www.youtube.com/watch?v=TS4DpYSmfXk) (Stéphane Nicoll, Brian Clozel, Devoxx Belgium 2022)
-- [GraalVM Cloud Native & Micronaut Deep Dive](https://www.youtube.com/watch?v=3t-gwFuOtnM) (Graeme Rocher, Devoxx Belgium 2022) 
