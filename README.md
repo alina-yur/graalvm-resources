@@ -10,7 +10,9 @@ This repo contains an opinionated list of blog posts, conference talks and other
 
 - [Supercharge your Native Image applications in 5 steps!](https://www.youtube.com/watch?v=gPA-yE6q_PQ) (Alina Yurenko, Devoxx Belgium 2022)
 - [Taming Build-Time Initialization in Native Image](https://github.com/graalvm/taming-build-time-initialization) (Vojin Jovanovic)
-- [Initialize Once, Start Fast: Application Initialization at Build Time](http://www.christianwimmer.at/Publications/Wimmer19a/Wimmer19a.pdf) (Christian Wimmer et al.) 
+- [Initialize Once, Start Fast: Application Initialization at Build Time](http://www.christianwimmer.at/Publications/Wimmer19a/Wimmer19a.pdf) (Christian Wimmer et al.)
+- [GraalVM Reachability Metadata Repository (Native Image reflection confuguration)](https://github.com/oracle/graalvm-reachability-metadata)
+- [Native Build Tools: Native Maven & Gradle plugins](https://github.com/graalvm/native-build-tools)
 
 # The Graal compiler
 
@@ -36,6 +38,6 @@ This repo contains an opinionated list of blog posts, conference talks and other
 - [Disney Streaming] [Improving Java Lambda Performance with GraalVM Native Image and Micronaut](https://aws.amazon.com/blogs/opensource/improving-developer-productivity-at-disney-with-serverless-and-open-source/)
 - [Adyen] [Running C/C++ application safely in the Java world with GraalVM at Adyen](https://www.adyen.com/blog/graalvm-running-c-applications--in-the-cloud)
 
-# Crazy projects with GraalVM 🤪😄
+# Fun projects with GraalVM
 - [Embedding Doom in Java with GraalVM WASM](https://github.com/stepstone-tech/doom-graalvm)
 
