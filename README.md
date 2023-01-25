@@ -13,6 +13,7 @@ This repo contains an opinionated list of blog posts, conference talks and other
 - [Initialize Once, Start Fast: Application Initialization at Build Time](http://www.christianwimmer.at/Publications/Wimmer19a/Wimmer19a.pdf) (Christian Wimmer et al.)
 - [GraalVM Reachability Metadata Repository (Native Image reflection confuguration)](https://github.com/oracle/graalvm-reachability-metadata)
 - [Native Build Tools: Native Maven & Gradle plugins](https://github.com/graalvm/native-build-tools)
+- [Ready for Native Image: libraries and frameworks](https://www.graalvm.org/native-image/libraries-and-frameworks/)
 
 # The Graal compiler
 
