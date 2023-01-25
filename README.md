@@ -18,6 +18,7 @@ This repo contains an opinionated list of blog posts, conference talks and other
 # The Graal compiler
 
 - [Doug Simon about building and contributing to the Graal compiler](https://www.youtube.com/watch?v=3Gh0cz3vjG8)
+- [Chris Seaton about Understanding Basic Graal Graphs](https://chrisseaton.com/truffleruby/basic-graal-graphs/)
 
 # Truffle and GraalVM languages
 
