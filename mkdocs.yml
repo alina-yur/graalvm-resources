@@ -1,0 +1,10 @@
+site_name: My Docs
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - toc.integrate
+
+
