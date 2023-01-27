@@ -1,4 +1,3 @@
-
 # GraalVM Resources
 
 This repo contains an opinionated list of blog posts, conference talks and other resources for getting started and using GraalVM (work in progress).
