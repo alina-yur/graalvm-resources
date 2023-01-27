@@ -47,3 +47,16 @@ This repo contains an opinionated list of blog posts, conference talks and other
 
 - [Embedding Doom in Java with GraalVM WASM](https://github.com/stepstone-tech/doom-graalvm)
 
+## More of GraalVM
+
+[Website :material-web:](https://github.com/squidfunk/mkdocs-material){ .md-button } 
+[Twitter :material-twitter:](https://twitter.com/GraalVM){ .md-button } 
+[Blog :simple-medium:](https://medium.com/graalvm){ .md-button }
+
+
+
+***
+
+
+Made with 💜 using [MKDocs-Material](https://github.com/squidfunk/mkdocs-material)
+

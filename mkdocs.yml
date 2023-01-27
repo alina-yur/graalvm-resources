@@ -1,9 +1,24 @@
 site_name: GraalVM Resources
 theme:
   name: material
-  palette: 
-    scheme: default
-    primary: deep purple
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+  favicon: assets/images/favicon.png
+  font:
+    text: Open Sans 
   features:
     - navigation.instant
     - navigation.tracking
@@ -15,3 +30,11 @@ extra:
     property: G-D5MSF4CYKX
 plugins:
   - social
+  - search
+repo_url: https://github.com/alina-yur/graalvm-resources
+repo_name: alina-yur/graalvm-resources
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
