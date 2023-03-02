@@ -25,6 +25,7 @@ This repo contains an opinionated list of blog posts, conference talks and other
 ## Truffle and GraalVM languages
 
 - [Dynamic Metacompilation with Truffle with Christian Humer](https://www.youtube.com/watch?v=pksRrON5XfU)
+- [Language implementations - official and experimental](https://github.com/oracle/graal/blob/master/truffle/docs/Languages.md)
 
 ## The ecosystem
 
@@ -38,6 +39,7 @@ This repo contains an opinionated list of blog posts, conference talks and other
 - [Twitter] [Accelerating Scala with the GraalVM JIT Compiler](https://www.youtube.com/watch?v=G-vlQaPMAx)
 - [Dutch National Police] [GraalVM in practice at the Dutch National Police: running R from Scala in Spring Boot 2](https://vimeo.com/360837119)
 - [Alibaba] [Static Compilation of Java Applications at Alibaba at Scale](https://medium.com/graalvm/static-compilation-of-java-applications-at-alibaba-at-scale-2944163c92e)
+- [Oracle Database] [Multilingual Engine: Executing JavaScript in Oracle Database](https://medium.com/graalvm/mle-executing-javascript-in-oracle-database-c545feb1a010)
 - [Netsuite] [Providing JavaScript runtime for Oracle Netsuite](https://www.netsuite.com/portal/resource/articles/erp/graal-runtime-technology-improves-netsuite-platform-developer-productivity.shtml)
 - [Facebook] [GraalVM at Facebook](https://medium.com/graalvm/graalvm-at-facebook-af09338ac519)
 - [Disney Streaming] [Improving Java Lambda Performance with GraalVM Native Image and Micronaut](https://aws.amazon.com/blogs/opensource/improving-developer-productivity-at-disney-with-serverless-and-open-source/)
@@ -47,6 +49,7 @@ This repo contains an opinionated list of blog posts, conference talks and other
 ## Fun projects with GraalVM
 
 - [Embedding Doom in Java with GraalVM WASM](https://github.com/stepstone-tech/doom-graalvm)
+- [Native Minecraft Servers with GraalVM Native Image](https://medium.com/graalvm/native-minecraft-servers-with-graalvm-native-image-1a3f6a92eb48)
 
 ## More of GraalVM
 
