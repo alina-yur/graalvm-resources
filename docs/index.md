@@ -6,7 +6,7 @@ This repo contains an opinionated list of blog posts, conference talks and other
 
 - [Revolutionizing Java-Based Applications with GraalVM](https://www.youtube.com/watch?v=mhmqomex1zk) (Thomas Wuerthinger, Alina Yurenko, Devoxx Belgium 2022)
 - [Do more with GraalVM](https://2022.javazone.no/#/program/624a7e82-bcfe-4d02-b7a6-59ba56107e52) (Alina Yurenko, JavaZone 2022)
-- [Deep dive into GraalVM](https://www.youtube.com/watch?v=ANN9rxYo5Hg) (Oleg Šelajev, Thomas Wuerthinger, Devoxx Belgium 2019)
+- [What's new in the latest GraalVM release](https://www.youtube.com/watch?v=lWhEg-6DqM0) (Thomas Wuerthinger, Alina Yurenko, Fabio Niephaus)
 
 ## GraalVM Native Image
 
@@ -16,6 +16,16 @@ This repo contains an opinionated list of blog posts, conference talks and other
 - [GraalVM Reachability Metadata Repository (Native Image reflection confuguration)](https://github.com/oracle/graalvm-reachability-metadata)
 - [Native Build Tools: Native Maven & Gradle plugins](https://github.com/graalvm/native-build-tools)
 - [Ready for Native Image: libraries and frameworks](https://www.graalvm.org/native-image/libraries-and-frameworks/)
+- [GraalVM Native Image — Faster, Smarter, Leaner](https://www.youtube.com/watch?v=sI-zXYLKzfk) (Shaun Smith, Oracle DevLive Level Up)
+- [Bootiful GraalVM](https://www.youtube.com/watch?v=3OBhk1c0GBs) (Josh Long, Alina Yurenko, Devoxx UK 2023)
+
+## The ecosystem
+
+- [Going Native: Fast and Lightweight Spring Boot Applications with GraalVM](https://www.youtube.com/watch?v=8umoZWj6UcU) (Alina Yurenko, Spring I/O 2023)
+- [Build Native Java Apps with Micronaut, Quarkus, and Spring Boot](https://www.youtube.com/watch?v=sTebxMbPTCQ) (Matt Raible)
+- [Ahead Of Time and Native in Spring Boot 3.0 by Stéphane Nicoll & Brian Clozel](https://www.youtube.com/watch?v=TS4DpYSmfXk) (Stéphane Nicoll, Brian Clozel, Devoxx Belgium 2022)
+- [GraalVM Cloud Native & Micronaut Deep Dive](https://www.youtube.com/watch?v=3t-gwFuOtnM) (Graeme Rocher, Devoxx Belgium 2022)
+- [GraalVM & Native Spring Applications on the Bootiful Podcast](https://spring.io/blog/2023/01/26/a-bootiful-podcast-graalvm-advocate-alina-yurenko-on-a-bootiful-podcast) (Josh Long, Alina Yurenko)
 
 ## The Graal compiler
 
@@ -26,13 +36,6 @@ This repo contains an opinionated list of blog posts, conference talks and other
 
 - [Dynamic Metacompilation with Truffle with Christian Humer](https://www.youtube.com/watch?v=pksRrON5XfU)
 - [Language implementations - official and experimental](https://github.com/oracle/graal/blob/master/truffle/docs/Languages.md)
-
-## The ecosystem
-
-- [Build Native Java Apps with Micronaut, Quarkus, and Spring Boot](https://www.youtube.com/watch?v=sTebxMbPTCQ) (Matt Raible)
-- [Ahead Of Time and Native in Spring Boot 3.0 by Stéphane Nicoll & Brian Clozel](https://www.youtube.com/watch?v=TS4DpYSmfXk) (Stéphane Nicoll, Brian Clozel, Devoxx Belgium 2022)
-- [GraalVM Cloud Native & Micronaut Deep Dive](https://www.youtube.com/watch?v=3t-gwFuOtnM) (Graeme Rocher, Devoxx Belgium 2022)
-- [GraalVM & Native Spring Applications on the Bootiful Podcast](https://spring.io/blog/2023/01/26/a-bootiful-podcast-graalvm-advocate-alina-yurenko-on-a-bootiful-podcast) (Josh Long, Alina Yurenko)
 
 ## GraalVM in the wild
 
