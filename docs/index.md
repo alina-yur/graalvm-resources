@@ -2,11 +2,12 @@
 
 This repo contains an opinionated list of blog posts, conference talks and other resources for getting started and using GraalVM (work in progress).
 
-## All things GraalVM
+##  Introduction to GraalVM
 
 - [Revolutionizing Java-Based Applications with GraalVM](https://www.youtube.com/watch?v=mhmqomex1zk) (Thomas Wuerthinger, Alina Yurenko, Devoxx Belgium 2022)
 - [Do more with GraalVM](https://2022.javazone.no/#/program/624a7e82-bcfe-4d02-b7a6-59ba56107e52) (Alina Yurenko, JavaZone 2022)
-- [What's new in the latest GraalVM release](https://www.youtube.com/watch?v=lWhEg-6DqM0) (Thomas Wuerthinger, Alina Yurenko, Fabio Niephaus)
+- [Everything you need to know about GraalVM Native Image (deep dive)](https://www.youtube.com/watch?v=QMwtJojhzl8) (Alina Yurenko, Fabio Niephaus, Devoxx Belgium 2023)
+- [Turning GraalVM from Research to Product](https://www.youtube.com/watch?v=83le8YeejVU) (Thomas Wuerthinger, Strange Loop 2023)
 
 ## GraalVM Native Image
 
@@ -18,6 +19,11 @@ This repo contains an opinionated list of blog posts, conference talks and other
 - [Ready for Native Image: libraries and frameworks](https://www.graalvm.org/native-image/libraries-and-frameworks/)
 - [GraalVM Native Image — Faster, Smarter, Leaner](https://www.youtube.com/watch?v=sI-zXYLKzfk) (Shaun Smith, Oracle DevLive Level Up)
 - [Bootiful GraalVM](https://www.youtube.com/watch?v=3OBhk1c0GBs) (Josh Long, Alina Yurenko, Devoxx UK 2023)
+- [Bootiful AOT with Spring Boot 3 (deep dive)](https://www.youtube.com/watch?v=M-7r35sttQI) (Josh Long, Alina Yurenko, Devoxx Belgium 2023)
+
+## What's new in GraalVM
+- [What's new in the latest GraalVM release](https://www.youtube.com/watch?v=lWhEg-6DqM0) (Thomas Wuerthinger, Alina Yurenko, Fabio Niephaus)
+
 
 ## The ecosystem
 
@@ -35,7 +41,9 @@ This repo contains an opinionated list of blog posts, conference talks and other
 ## Truffle and GraalVM languages
 
 - [Dynamic Metacompilation with Truffle with Christian Humer](https://www.youtube.com/watch?v=pksRrON5XfU)
+- [Truffle Unchained](https://medium.com/graalvm/truffle-unchained-13887b77b62c) (Christian Humer)
 - [Language implementations - official and experimental](https://github.com/oracle/graal/blob/master/truffle/docs/Languages.md)
+  
 
 ## GraalVM in the wild
 
