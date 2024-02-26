@@ -20,10 +20,11 @@ This repo contains an opinionated list of blog posts, conference talks and other
 - [GraalVM Native Image — Faster, Smarter, Leaner](https://www.youtube.com/watch?v=sI-zXYLKzfk) (Shaun Smith, Oracle DevLive Level Up)
 - [Bootiful GraalVM](https://www.youtube.com/watch?v=3OBhk1c0GBs) (Josh Long, Alina Yurenko, Devoxx UK 2023)
 - [Bootiful AOT with Spring Boot 3 (deep dive)](https://www.youtube.com/watch?v=M-7r35sttQI) (Josh Long, Alina Yurenko, Devoxx Belgium 2023)
+- [Native Spring Boot](https://github.com/alina-yur/native-spring-boot) (Sample project with instructions)
 
 ## What's new in GraalVM
-- [What's new in the latest GraalVM release](https://www.youtube.com/watch?v=lWhEg-6DqM0) (Thomas Wuerthinger, Alina Yurenko, Fabio Niephaus)
 
+- [What's new in the latest GraalVM release](https://www.youtube.com/watch?v=lWhEg-6DqM0) (Thomas Wuerthinger, Alina Yurenko, Fabio Niephaus)
 
 ## The ecosystem
 
@@ -32,11 +33,14 @@ This repo contains an opinionated list of blog posts, conference talks and other
 - [Ahead Of Time and Native in Spring Boot 3.0 by Stéphane Nicoll & Brian Clozel](https://www.youtube.com/watch?v=TS4DpYSmfXk) (Stéphane Nicoll, Brian Clozel, Devoxx Belgium 2022)
 - [GraalVM Cloud Native & Micronaut Deep Dive](https://www.youtube.com/watch?v=3t-gwFuOtnM) (Graeme Rocher, Devoxx Belgium 2022)
 - [GraalVM & Native Spring Applications on the Bootiful Podcast](https://spring.io/blog/2023/01/26/a-bootiful-podcast-graalvm-advocate-alina-yurenko-on-a-bootiful-podcast) (Josh Long, Alina Yurenko)
+- [Monitoring Spring Boot native image applications on Azure](https://devblogs.microsoft.com/java/monitor-your-spring-boot-native-image-application-on-azure/)
 
 ## The Graal compiler
 
-- [Doug Simon about building and contributing to the Graal compiler](https://www.youtube.com/watch?v=3Gh0cz3vjG8)
-- [Chris Seaton about Understanding Basic Graal Graphs](https://chrisseaton.com/truffleruby/basic-graal-graphs/)
+- [Building and contributing to the Graal compiler](https://www.youtube.com/watch?v=3Gh0cz3vjG8) (Doug Simon)
+- [Understanding Basic Graal Graphs](https://chrisseaton.com/truffleruby/basic-graal-graphs/) (Chris Seaton)
+- [JVM Performance Comparison for JDK 21](https://ionutbalosin.com/2024/02/jvm-performance-comparison-for-jdk-21/) (Ionut Balosin, Florin Blanaru)
+- [Analyzing JVM Energy Consumption for JDK 17: An Empirical Study](https://ionutbalosin.com/2023/07/analyzing-jvm-energy-consumption-for-jdk-17-an-empirical-study/) (Ionut Balosin)
 
 ## Truffle and GraalVM languages
 
