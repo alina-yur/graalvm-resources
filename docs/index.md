@@ -1,10 +1,11 @@
 # GraalVM Resources
 
-This repo contains an opinionated list of blog posts, conference talks and other resources for getting started and using GraalVM (work in progress).
+This repo contains a curated list of blog posts, conference talks and other resources for getting started and using GraalVM.
 
 ##  Introduction to GraalVM
 
 - [Revolutionizing Java-Based Applications with GraalVM](https://www.youtube.com/watch?v=mhmqomex1zk) (Thomas Wuerthinger, Alina Yurenko, Devoxx Belgium 2022)
+- [GraalVM in a Nutshell](https://www.youtube.com/watch?v=R9m_HpmbquY) (Alina Yurenko, Shaun Smith, JFokus, 2024)
 - [Do more with GraalVM](https://2022.javazone.no/#/program/624a7e82-bcfe-4d02-b7a6-59ba56107e52) (Alina Yurenko, JavaZone 2022)
 - [Everything you need to know about GraalVM Native Image (deep dive)](https://www.youtube.com/watch?v=QMwtJojhzl8) (Alina Yurenko, Fabio Niephaus, Devoxx Belgium 2023)
 - [Turning GraalVM from Research to Product](https://www.youtube.com/watch?v=83le8YeejVU) (Thomas Wuerthinger, Strange Loop 2023)
@@ -24,6 +25,7 @@ This repo contains an opinionated list of blog posts, conference talks and other
 
 ## What's new in GraalVM
 
+- [GraalVM for JDK 22 Release stream 🚀](https://www.youtube.com/watch?v=xRcHlBnljwA) (Alina Yurenko, Fabio Niephaus)
 - [What's new in the latest GraalVM release](https://www.youtube.com/watch?v=lWhEg-6DqM0) (Thomas Wuerthinger, Alina Yurenko, Fabio Niephaus)
 
 ## The ecosystem
@@ -65,6 +67,7 @@ This repo contains an opinionated list of blog posts, conference talks and other
 
 - [Embedding Doom in Java with GraalVM WASM](https://github.com/stepstone-tech/doom-graalvm)
 - [Native Minecraft Servers with GraalVM Native Image](https://medium.com/graalvm/native-minecraft-servers-with-graalvm-native-image-1a3f6a92eb48)
+- [Community language implementations on Truffle](https://github.com/oracle/graal/blob/master/truffle/docs/Languages.md#experiments)
 
 ## More of GraalVM
 
