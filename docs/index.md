@@ -9,6 +9,8 @@ This repo contains a curated list of blog posts, conference talks and other reso
 - [Do more with GraalVM](https://2022.javazone.no/#/program/624a7e82-bcfe-4d02-b7a6-59ba56107e52) (Alina Yurenko, JavaZone 2022)
 - [Everything you need to know about GraalVM Native Image (deep dive)](https://www.youtube.com/watch?v=QMwtJojhzl8) (Alina Yurenko, Fabio Niephaus, Devoxx Belgium 2023)
 - [Turning GraalVM from Research to Product](https://www.youtube.com/watch?v=83le8YeejVU) (Thomas Wuerthinger, Strange Loop 2023)
+2024)
+- [Introduction to GraalVM](https://www.youtube.com/watch?v=0272oxUbmgc) (The Geek Narrator Podcast, 15 April, 2024)
 
 ## GraalVM Native Image
 
