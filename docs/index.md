@@ -28,6 +28,7 @@ This repo contains a curated list of blog posts, conference talks and other reso
 ## What's new in GraalVM
 
 - [GraalVM for JDK 22 Release stream 🚀](https://www.youtube.com/watch?v=xRcHlBnljwA) (Alina Yurenko, Fabio Niephaus)
+- [GraalVM update in the Java 22 Launch Stream](https://www.youtube.com/live/AjjAZsnRXtE?t=10441s) (Alina Yurenko, Fabio Niephaus)
 - [What's new in the latest GraalVM release](https://www.youtube.com/watch?v=lWhEg-6DqM0) (Thomas Wuerthinger, Alina Yurenko, Fabio Niephaus)
 
 ## The ecosystem
